@@ -1,0 +1,215 @@
+﻿<Window x:Class="GuitarWorkshop.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:GuitarWorkshop.Controls"
+        xmlns:local="clr-namespace:GuitarWorkshop.View"
+        Title="Гитарная мастерская" 
+        Height="800" 
+        Width="1200"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+
+        <Style TargetType="TextBlock">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+        </Style>
+
+        <Style TargetType="controls:WatermarkTextBox">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Padding" Value="5"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <TabControl>
+            <!-- Вкладка клиентов -->
+            <TabItem Header="Клиенты">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <GroupBox Grid.Row="0" Header="Добавить клиента" Margin="5">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0" Margin="5">
+                                <controls:WatermarkTextBox x:Name="ClientFirstNameTextBox" 
+                                                          Watermark="Имя"/>
+                                <controls:WatermarkTextBox x:Name="ClientLastNameTextBox" 
+                                                          Watermark="Фамилия"/>
+                                <controls:WatermarkTextBox x:Name="ClientPhoneTextBox" 
+                                                          Watermark="Телефон"/>
+                                <controls:WatermarkTextBox x:Name="ClientEmailTextBox" 
+                                                          Watermark="Email"/>
+                                <Button Content="Добавить клиента" 
+                                        Click="AddClientButton_Click"/>
+                            </StackPanel>
+
+                            <StackPanel Grid.Column="1" Margin="5">
+                                <controls:WatermarkTextBox x:Name="ClientAddressTextBox" 
+                                                          Watermark="Адрес"
+                                                          Height="60"
+                                                          TextWrapping="Wrap"/>
+                                <controls:WatermarkTextBox x:Name="ClientNotesTextBox" 
+                                                          Watermark="Заметки"
+                                                          Height="60"
+                                                          TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </Grid>
+                    </GroupBox>
+
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="5">
+                        <controls:WatermarkTextBox x:Name="ClientSearchTextBox" 
+                                                  Watermark="Поиск клиентов"
+                                                  Width="200"/>
+                        <Button Content="Найти" Margin="5,0,0,0" Click="SearchClientButton_Click"/>
+                    </StackPanel>
+
+                    <DataGrid Grid.Row="2" x:Name="ClientsDataGrid" Margin="5" AutoGenerateColumns="False"
+                              CanUserAddRows="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="Auto"/>
+                            <DataGridTextColumn Header="Фамилия" Binding="{Binding LastName}" Width="*"/>
+                            <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}" Width="*"/>
+                            <DataGridTextColumn Header="Телефон" Binding="{Binding Phone}" Width="*"/>
+                            <DataGridTextColumn Header="Email" Binding="{Binding Email}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+
+            <!-- Вкладка гитар -->
+            <TabItem Header="Гитары">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <GroupBox Grid.Row="0" Header="Добавить гитару" Margin="5">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0" Margin="5">
+                                <controls:WatermarkTextBox x:Name="GuitarBrandTextBox" 
+                                                          Watermark="Бренд"/>
+                                <controls:WatermarkTextBox x:Name="GuitarModelTextBox" 
+                                                          Watermark="Модель"/>
+                                <controls:WatermarkTextBox x:Name="GuitarYearTextBox" 
+                                                          Watermark="Год"/>
+                                <controls:WatermarkTextBox x:Name="GuitarSerialTextBox" 
+                                                          Watermark="Серийный номер"/>
+                            </StackPanel>
+
+                            <StackPanel Grid.Column="1" Margin="5">
+                                <ComboBox x:Name="GuitarTypeComboBox" Margin="5"
+                                          DisplayMemberPath="Name"/>
+                                <ComboBox x:Name="GuitarClientComboBox" Margin="5"
+                                          DisplayMemberPath="LastName"
+                                          SelectedValuePath="Id"/>
+                                <controls:WatermarkTextBox x:Name="GuitarConditionTextBox" 
+                                                          Watermark="Состояние"
+                                                          Height="60"
+                                                          TextWrapping="Wrap"/>
+                                <Button Content="Добавить гитару" 
+                                        Click="AddGuitarButton_Click"/>
+                            </StackPanel>
+                        </Grid>
+                    </GroupBox>
+
+                    <DataGrid Grid.Row="1" x:Name="GuitarsDataGrid" Margin="5" AutoGenerateColumns="False"
+                              CanUserAddRows="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="Auto"/>
+                            <DataGridTextColumn Header="Бренд" Binding="{Binding Brand}" Width="*"/>
+                            <DataGridTextColumn Header="Модель" Binding="{Binding Model}" Width="*"/>
+                            <DataGridTextColumn Header="Год" Binding="{Binding Year}" Width="Auto"/>
+                            <DataGridTextColumn Header="Тип" Binding="{Binding Type}" Width="*"/>
+                            <DataGridTextColumn Header="Владелец" Binding="{Binding Client.LastName}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+
+            <!-- Вкладка заказов -->
+            <TabItem Header="Заказы">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <GroupBox Grid.Row="0" Header="Создать заказ" Margin="5">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0" Margin="5">
+                                <ComboBox x:Name="OrderClientComboBox" Margin="5"
+                                          DisplayMemberPath="LastName"
+                                          SelectedValuePath="Id"/>
+                                <ComboBox x:Name="OrderGuitarComboBox" Margin="5"
+                                          DisplayMemberPath="Model"
+                                          SelectedValuePath="Id"/>
+                                <ComboBox x:Name="OrderServiceComboBox" Margin="5"
+                                          DisplayMemberPath="Name"
+                                          SelectedValuePath="Id"/>
+                            </StackPanel>
+
+                            <StackPanel Grid.Column="1" Margin="5">
+                                <controls:WatermarkTextBox x:Name="OrderDescriptionTextBox" 
+                                                          Watermark="Описание работ"
+                                                          Height="60"
+                                                          TextWrapping="Wrap"/>
+                                <controls:WatermarkTextBox x:Name="OrderPriceTextBox" 
+                                                          Watermark="Стоимость"/>
+                                <Button Content="Создать заказ" 
+                                        Click="CreateOrderButton_Click"/>
+                            </StackPanel>
+                        </Grid>
+                    </GroupBox>
+
+                    <DataGrid Grid.Row="1" x:Name="OrdersDataGrid" Margin="5" AutoGenerateColumns="False"
+                              CanUserAddRows="False" IsReadOnly="True">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="Auto"/>
+                            <DataGridTextColumn Header="Дата" Binding="{Binding OrderDate, StringFormat={}{0:dd.MM.yyyy}}" Width="Auto"/>
+                            <DataGridTextColumn Header="Клиент" Binding="{Binding Client.LastName}" Width="*"/>
+                            <DataGridTextColumn Header="Гитара" Binding="{Binding Guitar.Brand}" Width="*"/>
+                            <DataGridTextColumn Header="Услуга" Binding="{Binding RepairService.Name}" Width="*"/>
+                            <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="Auto"/>
+                            <DataGridTextColumn Header="Стоимость" Binding="{Binding Price, StringFormat={}{0:N2} руб.}" Width="Auto"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+                        <Button Content="Сформировать акт приема" 
+                                Click="GenerateActButton_Click"
+                                Margin="0,0,10,0"/>
+                        <Button Content="Пометить как выполненный" 
+                                Click="CompleteOrderButton_Click"/>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
