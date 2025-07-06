@@ -1,0 +1,318 @@
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\GuitarWorkshopApp.exe
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\GuitarWorkshopApp.deps.json
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\GuitarWorkshopApp.runtimeconfig.json
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\GuitarWorkshopApp.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\GuitarWorkshopApp.pdb
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Humanizer.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\MySqlConnector.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.csproj.AssemblyReference.cache
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp_MarkupCompile.cache
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.g.resources
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.AssemblyInfoInputs.cache
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.AssemblyInfo.cs
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.csproj.CoreCompileInputs.cache
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWo.0EF9BE6E.Up2Date
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\refint\GuitarWorkshopApp.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.pdb
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\GuitarWorkshopApp.genruntimeconfig.cache
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\ref\GuitarWorkshopApp.dll
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\Views\GuitarDialog.baml
+C:\Users\ninja\source\repos\GuitarWorkshopApp\obj\Debug\net9.0-windows\Views\GuitarDialog.g.cs
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.exe
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.deps.json
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.runtimeconfig.json
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.pdb
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Humanizer.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\MySqlConnector.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.csproj.AssemblyReference.cache
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\GuitarDialog.baml
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\GuitarDialog.g.cs
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\App.g.cs
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp_MarkupCompile.cache
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.g.resources
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.AssemblyInfoInputs.cache
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.AssemblyInfo.cs
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.csproj.CoreCompileInputs.cache
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWo.0EF9BE6E.Up2Date
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.dll
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\refint\GuitarWorkshopApp.dll
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.pdb
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.genruntimeconfig.cache
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\ref\GuitarWorkshopApp.dll
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\OrderDialog.baml
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\OrderDialog.g.cs
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\EditDialog.baml
+D:\Download\Diplom\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\EditDialog.g.cs
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.exe
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.deps.json
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.runtimeconfig.json
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\GuitarWorkshopApp.pdb
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Humanizer.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Mono.TextTemplating.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\MySqlConnector.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.AttributedModel.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.Convention.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.Hosting.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.Runtime.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\System.Composition.TypedParts.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.csproj.AssemblyReference.cache
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\EditDialog.baml
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\GuitarDialog.baml
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\OrderDialog.baml
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\EditDialog.g.cs
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\GuitarDialog.g.cs
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\Views\OrderDialog.g.cs
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\App.g.cs
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp_Content.g.cs
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp_MarkupCompile.cache
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.g.resources
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.AssemblyInfoInputs.cache
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.AssemblyInfo.cs
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.csproj.CoreCompileInputs.cache
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWo.0EF9BE6E.Up2Date
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.dll
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\refint\GuitarWorkshopApp.dll
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.pdb
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\GuitarWorkshopApp.genruntimeconfig.cache
+D:\Desktop\GuitarWorkshopApp last\obj\Debug\net9.0-windows\ref\GuitarWorkshopApp.dll

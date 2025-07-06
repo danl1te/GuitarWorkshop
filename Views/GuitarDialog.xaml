@@ -1,0 +1,18 @@
+<Window x:Class="GuitarWorkshopApp.Views.GuitarDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить гитару" Height="200" Width="300"
+        ResizeMode="NoResize">
+    <StackPanel Margin="10">
+        <TextBlock Text="Тип:"/>
+        <TextBox Text="{Binding GuitarType, UpdateSourceTrigger=PropertyChanged}" />
+        <TextBlock Text="Год:"/>
+        <TextBox Text="{Binding Year, UpdateSourceTrigger=PropertyChanged}" />
+        <TextBlock Text="Материалы:"/>
+        <TextBox Text="{Binding Materials, UpdateSourceTrigger=PropertyChanged}" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+            <Button Content="OK" Width="60" Margin="0,0,5,0" Click="OkButton_Click"/>
+            <Button Content="Отмена" Width="60" Click="CancelButton_Click"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

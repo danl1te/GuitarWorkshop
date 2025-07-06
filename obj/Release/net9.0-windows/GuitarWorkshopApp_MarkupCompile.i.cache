@@ -1,0 +1,20 @@
+﻿GuitarWorkshopApp
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Desktop\GuitarWorkshopApp last\obj\Release\net9.0-windows\
+GuitarWorkshopApp
+none
+false
+TRACE;RELEASE;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Desktop\GuitarWorkshopApp last\App.xaml
+4-1797694031
+1198807390
+13-388857473
+2141200830470
+MainWindow.xaml;Views\EditDialog.xaml;Views\GuitarDialog.xaml;Views\OrderDialog.xaml;
+
+False
+
